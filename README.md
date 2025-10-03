@@ -11,14 +11,6 @@ Ekam is an advanced, AI-driven query engine that transforms raw data into action
 
 ---
 
-## 🚀 Live Demo
-
-[**Watch a 5-minute walkthrough of Ekam in action!**](https://www.loom.com/share/xxxxxxxx)
-
-*(This is a placeholder. You should record a Loom video demonstrating the project as per the assignment requirements and replace this link.)*
-
----
-
 ## ✨ Key Features
 
 ### 🧠 Core Engine & AI Capabilities
