@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+mysql-connector-python
+pypdf
+python-docx
+sentence-transformers
+torch
+cachetools
+pydantic-settings
+pandas
+chromadb
